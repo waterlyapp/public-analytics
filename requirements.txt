@@ -1,0 +1,9 @@
+geopandas
+matplotlib
+pandas
+folium
+sqlalchemy
+dotenv
+python-dotenv
+ipython
+numpy
