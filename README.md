@@ -4,12 +4,12 @@ This repository contains Waterly-published analyses of public water-related data
 It is recommended to use a unique python .venv for this project.
 
 Users will have to manually create folders EPA_Data and BoundaryOutputData. EPA data will need to include: 
-- NPDES_EFF_VIOLATIONS.csv,
-- NPDES_NAICS.csv, and
-- SDWA_VIOLATIONS_ENFORCEMENT.csv.
+- NPDES_EFF_VIOLATIONS.csv
+- NPDES_NAICS.csv
+- SDWA_VIOLATIONS_ENFORCEMENT.csv
 
 BoundaryOutputData will need to include: 
-- EPA_CWS_V1.shp.
+- EPA_CWS_V1.shp
 
 NPDES and SDWA Data can be found on the [EPA ECHO Data Download](https://echo.epa.gov/tools/data-downloads) website. 
 
