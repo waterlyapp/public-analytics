@@ -8,3 +8,6 @@ python-dotenv
 ipython
 numpy
 requests
+plotly
+statsmodels
+seaborn
